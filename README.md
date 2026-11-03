@@ -37,3 +37,4 @@ You can verify the downloaded APK anytime using PowerShell:
 - Strict HTTPS download verification with SHA-256 integrity checks.
 - Configured dedicated production release signing keystore (`hisabsetu_release.jks`).
 - Upgraded Android Gradle Plugin & NDK build configuration for reliable packaging.
+

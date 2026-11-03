@@ -13,8 +13,8 @@
     "Upgraded Android Gradle Plugin & NDK build configuration for reliable packaging"
   ],
   "apk_url": "https://github.com/MICHITI/hisabsetu_releases/releases/download/v1.0.1/HisabSetu-v1.0.1.apk",
-  "apk_sha256": "def6e24b92ffd79f70709c7fdf3d91fe9f481cdbb213eab2bb1770499858ffb0",
-  "file_size_bytes": 70152661,
+  "apk_sha256": "8bd60e2fae4336398fcee4138247f82387eef05359f3ec3ebbdb056abb975142",
+  "file_size_bytes": 70152657,
   "mandatory_update": false,
   "published_at": "2026-11-04T00:20:00Z"
 }
